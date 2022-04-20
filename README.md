@@ -350,6 +350,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep
 * [Dominion](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
 * [EbbeFlut](https://github.com/karussell/ebbeflut) - Really nice board game implemented in a bad way a VERY long time ago.
+* [Enigma](https://github.com/Enigma-Game/Enigma) - Enigma is a puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga.
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 * [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [nudoku](https://github.com/jubalh/nudoku) - ncurses based CLI sudoku game
